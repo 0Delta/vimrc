@@ -1,0 +1,10 @@
+[submodule ".vim/dein.vim"]
+	path = .vim/dein.vim
+	url = git@github.com:Shougo/dein.vim.git
+    ignore = untracked
+[submodule ".vim/pack/vimdoc-ja/opt/autofmt"]
+	path = .vim/pack/vimdoc-ja/opt/autofmt
+	url = git@github.com:vim-jp/autofmt.git
+[submodule ".vim/pack/plugins/start/ale"]
+	path = .vim/pack/plugins/start/ale
+	url = git@github.com:w0rp/ale.git
